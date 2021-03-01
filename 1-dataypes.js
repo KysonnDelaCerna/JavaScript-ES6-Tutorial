@@ -15,7 +15,7 @@ const FINAL = 1;
 // differences between let and var
 
 // variable hoisting
-console.log(d);
+console.log(c);
 var c = 10;
 
 for (var d = 0; d < 3; d++) {
